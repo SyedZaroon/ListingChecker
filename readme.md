@@ -1,1 +1,1 @@
- python3 check_products.py urls.txt
+python3 check_products.py urls.txt
