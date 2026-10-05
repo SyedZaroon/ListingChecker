@@ -1,0 +1,218 @@
+[
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?sort_by=manual&filter.v.availability=1",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/iphone?sort_by=manual&filter.v.availability=1",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/samsung?sort_by=manual&filter.v.availability=1",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/google-pixel?sort_by=manual&filter.v.availability=1",
+    "count": 10,
+    "method": "page-html",
+    "note": "10 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?filter.v.option.condition=Brand+New&sort_by=manual&filter.v.availability=1",
+    "count": 2,
+    "method": "page-html",
+    "note": "2 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?sort_by=created-descending&filter.v.availability=1&filter.v.option.condition=Premium",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?filter.v.option.condition=Excellent&sort_by=manual&filter.v.availability=1",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?filter.v.option.condition=Very+Good&sort_by=manual&filter.v.availability=1",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?filter.v.option.condition=Fair&sort_by=manual&filter.v.availability=1",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?filter.v.option.storage=64GB&sort_by=manual&filter.v.availability=1",
+    "count": 6,
+    "method": "page-html",
+    "note": "6 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?filter.v.option.storage=128GB&sort_by=manual&filter.v.availability=1",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?filter.v.option.storage=256GB",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?sort_by=price-ascending&filter.v.option.storage=512GB&filter.v.availability=1",
+    "count": 9,
+    "method": "page-html",
+    "note": "9 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?sort_by=manual&filter.v.availability=1",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/ipad?sort_by=manual&filter.v.availability=1",
+    "count": 17,
+    "method": "page-html",
+    "note": "17 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/samsung-tab?sort_by=manual&filter.v.availability=1",
+    "count": 9,
+    "method": "page-html",
+    "note": "9 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?filter.v.option.condition=Brand+New",
+    "count": 14,
+    "method": "page-html",
+    "note": "14 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?sort_by=created-descending&filter.v.availability=1&filter.v.option.condition=Premium",
+    "count": 1,
+    "method": "page-html",
+    "note": "1 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?filter.v.option.condition=Excellent",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?filter.v.option.condition=Very+Good",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?filter.v.option.condition=Fair",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?filter.v.option.storage=32GB&sort_by=manual&filter.v.availability=1",
+    "count": 2,
+    "method": "page-html",
+    "note": "2 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?filter.v.option.storage=64GB&sort_by=manual&filter.v.availability=1",
+    "count": 8,
+    "method": "page-html",
+    "note": "8 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?filter.v.option.storage=128GB&sort_by=manual&filter.v.availability=1",
+    "count": 10,
+    "method": "page-html",
+    "note": "10 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?filter.v.option.storage=256GB",
+    "count": 20,
+    "method": "page-html",
+    "note": "20 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/tablets?filter.v.option.storage=512GB",
+    "count": 15,
+    "method": "page-html",
+    "note": "15 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/smart-watches?sort_by=manual&filter.v.availability=1",
+    "count": 8,
+    "method": "page-html",
+    "note": "8 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/apple-watches?sort_by=manual&filter.v.availability=1",
+    "count": 8,
+    "method": "page-html",
+    "note": "8 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/clearance-sale?sort_by=manual&filter.v.availability=1",
+    "count": 13,
+    "method": "page-html",
+    "note": "13 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/chargers?sort_by=manual&filter.v.availability=1",
+    "count": 3,
+    "method": "page-html",
+    "note": "3 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/cables?sort_by=manual&filter.v.availability=1",
+    "count": 4,
+    "method": "page-html",
+    "note": "4 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/laptops?sort_by=manual&filter.v.availability=1",
+    "count": 3,
+    "method": "page-html",
+    "note": "3 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/gaming-consoles?sort_by=manual&filter.v.availability=1",
+    "count": 6,
+    "method": "page-html",
+    "note": "6 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/smart-watches-accessories?sort_by=manual&filter.v.availability=1",
+    "count": 3,
+    "method": "page-html",
+    "note": "3 product links in page"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?sort_by=price-ascending&filter.v.price.gte=0&filter.v.price.lte=710&filter.p.m.custom.brands=Samsung&filter.v.option.condition=Premium&filter.v.option.storage=512GB&filter.v.option.colour=Blue+Shadow&filter.v.availability=1",
+    "count": 0,
+    "method": "page-html",
+    "note": "empty message: 'No products match'"
+  },
+  {
+    "url": "https://mobiledirectonline.co.uk/collections/mobile-phones?sort_by=manual&filter.v.availability=1&filter.v.price.gte=184&filter.v.price.lte=196&filter.p.m.custom.brands=Samsung&filter.v.option.condition=Excellent&filter.v.option.colour=Graphite&filter.v.option.colour=Jetblack",
+    "count": 0,
+    "method": "page-html",
+    "note": "empty message: 'No products match'"
+  }
+]
