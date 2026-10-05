@@ -32,5 +32,5 @@ https://mobiledirectonline.co.uk/collections/cables?sort_by=manual&filter.v.avai
 https://mobiledirectonline.co.uk/collections/laptops?sort_by=manual&filter.v.availability=1
 https://mobiledirectonline.co.uk/collections/gaming-consoles?sort_by=manual&filter.v.availability=1
 https://mobiledirectonline.co.uk/collections/smart-watches-accessories?sort_by=manual&filter.v.availability=1
-https://mobiledirectonline.co.uk/collections/mobile-phones?sort_by=price-ascending&filter.v.price.gte=0&filter.v.price.lte=710&filter.p.m.custom.brands=Samsung&filter.v.option.condition=Premium&filter.v.option.storage=512GB&filter.v.option.colour=Blue+Shadow&filter.v.availability=1
-https://mobiledirectonline.co.uk/collections/mobile-phones?sort_by=manual&filter.v.availability=1&filter.v.price.gte=184&filter.v.price.lte=196&filter.p.m.custom.brands=Samsung&filter.v.option.condition=Excellent&filter.v.option.colour=Graphite&filter.v.option.colour=Jetblack
+https://mobiledirectonline.co.uk/collections/headset?sort_by=manual&filter.v.availability=1
+https://mobiledirectonline.co.uk/collections/airpods?sort_by=manual&filter.v.availability=1
